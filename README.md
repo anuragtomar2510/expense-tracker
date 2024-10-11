@@ -3,9 +3,9 @@
 
 Demo : [https://anuragtomar2510-expense-tracker.netlify.app/]
 
-It is a React-based Expense Tracker Application. With this application, a user can keep a track of their income, expense and balance. It also shows individual detail of each transaction. It is built using React Hooks and styled components.
+This is a React-based Expense Tracker Application that enables users to monitor their income, expenses, and overall balance. The app provides detailed insights into each transaction, allowing users to categorize and analyze their spending habits effectively. With an intuitive interface, it makes tracking finances straightforward and accessible for everyone, whether you're budgeting for personal goals or managing business expenses. Built using React Hooks and styled components, it ensures a modern and responsive user experience. Take control of your finances and make informed decisions with this essential tracking tool!
 
-Feel free to fork the repository for your own learning.
+Feel free to fork the repository for your learning.
 
 
 
